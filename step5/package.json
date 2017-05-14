@@ -1,0 +1,15 @@
+{
+  "name": "express-setup",
+  "version": "1.0.0",
+  "description": "here you can learn how to setup express setup in local desktop.",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",	  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dsinzTech",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
